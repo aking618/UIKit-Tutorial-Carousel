@@ -4,6 +4,7 @@ This is a simple project that demonstrates how to implement a photo carousel wit
 
 Article: [Mastering UIKit - Implementing a Photo Carousel with Interactive Zoom and Pan](placeholder)
 
-## Video
-![Watch the video](https://raw.githubusercontent.com/aking618/UIKit-Tutorial-Carousel/main/readme_assets/carouselDemo.mp4)
+<div align="center">
+  <img src="readme_assets/demo.gif" height="500"/>
+</div>
 
